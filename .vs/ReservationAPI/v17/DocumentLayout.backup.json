@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prn232\\ReservationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|d:\\prn232\\reservationapi\\reservationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|solutionrelative:reservationapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|d:\\prn232\\reservationapi\\reservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|solutionrelative:reservationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|d:\\prn232\\reservationapi\\reservationapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|solutionrelative:reservationapi\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|d:\\prn232\\reservationapi\\reservationapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|solutionrelative:reservationapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|d:\\prn232\\reservationapi\\reservationapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|solutionrelative:reservationapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|d:\\prn232\\reservationapi\\reservationapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{927E073A-22DE-4D83-999D-2C682AB84CF9}|ReservationAPI\\ReservationAPI.csproj|solutionrelative:reservationapi\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReservationAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReservationAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T02:16:46.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ReservationAPI\\Program.cs",
+              "ToolTip": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Program.cs",
+              "RelativeToolTip": "ReservationAPI\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvzkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:06:32.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "ReservationAPI\\Controllers\\ReservationController.cs",
+              "ToolTip": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "ReservationAPI\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:10:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ReservationAPI\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ReservationAPI\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:06:00.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ReservationAPI\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ReservationAPI\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:04:15.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "ReservationAPI\\Models\\Reservation.cs",
+              "ToolTip": "D:\\prn232\\ReservationAPI\\ReservationAPI\\Models\\Reservation.cs",
+              "RelativeToolTip": "ReservationAPI\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:02:59.687Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 898,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

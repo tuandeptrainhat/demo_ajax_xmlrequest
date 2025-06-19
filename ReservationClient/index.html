@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>All Reservations</title>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        table a, table img {
+            cursor: pointer;
+            width: 20px;
+        }
+    </style>
+</head>
+<body class="container-fluid mt-3">
+
+    <h2>All Reservations</h2>
+    <a href="add.html" class="btn btn-sm btn-primary">Add Reservation</a>
+    <a href="getReservation.html" class="btn btn-sm btn-primary">Get Reservation</a>
+
+    <table class="table table-striped table-bordered mt-2" id="apiTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Start Location</th>
+                <th>End Location</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <!-- Cách 1: Dùng jQuery -->
+    <script src="ajax/ajax.js"></script>
+
+    <!-- Cách 2: Dùng XMLHttpRequest -->
+    <!-- <script src="xmlrequest/xmlrequest.js"></script> -->
+
+</body>
+</html>

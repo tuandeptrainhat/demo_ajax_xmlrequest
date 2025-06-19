@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Add Reservation</title>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="container mt-3">
+    <h3>Add a Reservation <a href="index.html" class="btn btn-sm btn-secondary">Back</a></h3>
+
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input type="text" id="Name" class="form-control w-50" />
+    </div>
+    <div class="form-group">
+        <label for="StartLocation">Start Location:</label>
+        <input type="text" id="StartLocation" class="form-control w-50" />
+    </div>
+    <div class="form-group">
+        <label for="EndLocation">End Location:</label>
+        <input type="text" id="EndLocation" class="form-control w-50" />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2" id="AddButton">Add</button>
+
+    <div style="display:none;" id="resultDiv" class="mt-4">
+        <h5>Reservation</h5>
+        <table class="table table-bordered">
+            <thead>
+                <tr><th>ID</th><th>Name</th><th>Start Location</th><th>End Location</th></tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <!-- Cách 1: jQuery -->
+    <script src="ajax/add.js"></script>
+
+    <!-- Cách 2: XMLHttpRequest -->
+    <!-- <script src="xmlrequest/add.js"></script> -->
+</body>
+</html>
